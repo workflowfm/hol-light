@@ -1,0 +1,12 @@
+[submodule "IsabelleLight"]
+	path = IsabelleLight
+	url = https://bitbucket.org/petrospapapa/isabelle-light.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/PetrosPapapa/hol-light-tools.git
+[submodule "embed"]
+	path = embed
+	url = https://github.com/PetrosPapapa/hol-light-embed.git
+[submodule "workflowfm"]
+	path = workflowfm
+	url = https://github.com/workflowfm/workflowfm-reasoner.git
